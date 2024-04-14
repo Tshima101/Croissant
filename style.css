@@ -2,7 +2,14 @@ body {
   background: #b7ff74;
 }
 h1 {
+  font-size: 90px;
   text-align: center;
+}
+p {
+  color: black;
+  background: rgb(155, 96, 8);
+  padding: 20px;
+  box-shadow: 5px 10px 10px;
 }
 footer {
   text-align: center;
