@@ -1,5 +1,5 @@
 body {
-  background: #fffa74db;
+  background: #efed9fdb;
 }
 h1 {
   font-size: 90px;
@@ -23,4 +23,14 @@ footer a {
   border-radius: 10px;
   display: block;
   margin: 25px auto;
+}
+
+.index-photo {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
