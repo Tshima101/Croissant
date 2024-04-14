@@ -7,3 +7,13 @@ h1 {
 footer {
   text-align: center;
 }
+footer a {
+  margin: 0 10px;
+  color: white;
+}
+.croissant-photo {
+  max-width: 75%;
+  border-radius: 10px;
+  display: block;
+  margin: 25px auto;
+}
