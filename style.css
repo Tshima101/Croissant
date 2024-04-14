@@ -1,5 +1,5 @@
 body {
-  background: #b7ff74;
+  background: #fffa74db;
 }
 h1 {
   font-size: 90px;
@@ -7,7 +7,7 @@ h1 {
 }
 p {
   color: black;
-  background: rgb(155, 96, 8);
+  background: rgb(233, 176, 90);
   padding: 20px;
   box-shadow: 5px 10px 10px;
 }
@@ -16,7 +16,7 @@ footer {
 }
 footer a {
   margin: 0 10px;
-  color: white;
+  color: black;
 }
 .croissant-photo {
   max-width: 75%;
