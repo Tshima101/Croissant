@@ -1,5 +1,9 @@
 body {
-  background: #efed9fdb;
+  background: radial-gradient(
+    859px at 10% 20%,
+    rgb(245, 220, 154) 0%,
+    rgb(164, 78, 51) 90%
+  );
 }
 h1 {
   font-size: 90px;
