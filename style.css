@@ -10,16 +10,16 @@ h1 {
   text-align: center;
 }
 p {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.croissant-paragraphs {
   color: black;
   background: rgb(233, 176, 90);
   padding: 20px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
   border-radius: 5px;
-}
-
-.croissant-paragraphs p {
-  display: flex;
-  justify-content: space-evenly;
   flex: 1;
   margin: 50px;
   font-size: 20px;
