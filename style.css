@@ -1,21 +1,23 @@
 body {
+  background-image: url("pexels-croissant.jpg");
   background: radial-gradient(
     859px at 10% 20%,
     rgb(245, 220, 154) 0%,
     rgb(164, 78, 51) 90%
   );
 }
+
 h1 {
   font-size: 90px;
   text-align: center;
 }
-p {
+.croissant-paragraphs {
+  color: black;
   display: flex;
   justify-content: space-evenly;
 }
 
-.croissant-paragraphs {
-  color: black;
+.croissant-paragraphs p {
   background: rgb(233, 176, 90);
   padding: 20px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
